@@ -63,7 +63,7 @@ npx cypress run
 After the test execution completes, the test results can be viewed in the command line output. Additionally, an HTML report will be generated in the **reports/html** folder
 
 # Test Scenarios
-The framework currently includes the following test scenarios:
+The framework currently includes the following test scenarios (Available in cypress/cypress/e2e/valetAPITesting/valetapi.cy.js):
 
 - Find the average Forex conversion rate for a specified currency pair and recent weeks.
 - Validate the uniqueness of dates in the API response.
