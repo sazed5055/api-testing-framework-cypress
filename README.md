@@ -12,8 +12,8 @@ This project is a lightweight API automation framework built using JavaScript. I
 # Prerequisites
 Before running the automation framework, make sure you have the following installed:
 
-Node.js: https://nodejs.org
-npm: Included with Node.js installation
+- Node.js: https://nodejs.org
+- npm: Included with Node.js installation
 
 # Getting Started
 Follow these steps to set up and run the automation framework:
@@ -27,7 +27,7 @@ git@github.com:sazed5055/api-testing-framework-cypress.git
 2. Navigate to the project directory:
 
 ```
-api-testing-framework-cypress
+cd api-testing-framework-cypress
 ```
 
 3. Initialize the project and install cypress:
