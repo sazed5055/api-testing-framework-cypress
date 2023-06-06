@@ -62,3 +62,16 @@ npx cypress run
 
 After the test execution completes, the test results can be viewed in the command line output. Additionally, an HTML report will be generated in the **reports/html** folder
 
+# Test Scenarios
+The framework currently includes the following test scenarios:
+
+- Find the average Forex conversion rate for a specified currency pair and recent weeks.
+- Validate the uniqueness of dates in the API response.
+- Test error handling for invalid currency codes.
+- Test error handling for an invalid date range.
+- Verify observations starting from a valid start date.
+- Verify observations ending at a valid end date.
+- Verify observations within a valid date range.
+- Test error handling for an invalid date format.
+- Test retrieving the most recent X observations per series.
+
