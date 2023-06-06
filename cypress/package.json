@@ -1,0 +1,17 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "A lightweight API automation framework using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sazed",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.5.0"
+  }
+}

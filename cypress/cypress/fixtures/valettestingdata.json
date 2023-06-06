@@ -1,0 +1,9 @@
+{
+  "currencyPair": "FXCADAUD",
+  "recentWeeks": 10,
+  "startDate" : "2019-05-09",
+  "endDate" : "2020-05-12",
+  "invalidDateFormat" : "2022/05/09",
+  "invalidDateRangeErrorMessage" : "The End date must be greater than the Start date.",
+  "invalidDateFormatErrorMessage" : "Start date contains a value that is not allowed. Expected format is YYYY-MM-DD, e.g. 2001-01-27"
+}
