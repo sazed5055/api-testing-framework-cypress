@@ -1,0 +1,50 @@
+{
+    "testCases": [
+      {
+        "currencyPair": "FXCADAUD",
+        "recentWeeks": 10,
+        "statusCode": 200
+      },
+      {
+        "currencyPair": "FXAUDCAD",
+        "recentWeeks": 10,
+        "statusCode": 200
+      },
+      {
+        "currencyPair": "FXCADUSD",
+        "recentWeeks": 10,
+        "statusCode": 200
+      },
+      {
+        "currencyPair": "FXUSDCAD",
+        "recentWeeks": 10,
+        "statusCode": 200
+      },
+      {
+        "currencyPair": "FXGBPCAD",
+        "recentWeeks": 10,
+        "statusCode": 200
+      },
+      {
+        "currencyPair": "FXCADGBP",
+        "recentWeeks": 10,
+        "statusCode": 200
+      },
+      {
+        "currencyPair": "FXCADEUR",
+        "recentWeeks": 10,
+        "statusCode": 200
+      },
+      {
+        "currencyPair": "FXEURCAD",
+        "recentWeeks": 10,
+        "statusCode": 200
+      },
+      {
+        "currencyPair": "FXEURCAD",
+        "recentWeeks": 1,
+        "statusCode": 200
+      }
+    ]
+  }
+  
