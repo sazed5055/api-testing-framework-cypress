@@ -75,3 +75,8 @@ The framework currently includes the following test scenarios (Available in cypr
 - Test error handling for an invalid date format.
 - Test retrieving the most recent X observations per series.
 
+## Data-Driven Tests
+
+The repository now includes an example of a data-driven test, **data-driven-average-forex-conversion-rate.cy.js**, to showcase code reusability. The test uses the fixture file **datadriventestdata.json** to define multiple test cases with different currency pairs, recent weeks, and expected status codes.
+
+To run the data-driven test, make sure the **datadriventestdata.json** file is available in the fixtures directory. Then, execute the Cypress test suite as mentioned earlier.
