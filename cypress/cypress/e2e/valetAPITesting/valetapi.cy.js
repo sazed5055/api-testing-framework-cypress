@@ -39,7 +39,7 @@ before( ()=>{
         expect(observations).to.have.lengthOf.at.least(1);
 
         // Number of values should match the number of observations
-        const values = observations.map(observation => parseFloat(observation.FXCADAUD.v)); 
+        const values = observations.map(observation => parseFloat(observation[currencyPair].v)); 
         expect(values).to.have.lengthOf(observations.length); 
         
         // There should be at least one valid value
